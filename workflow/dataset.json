@@ -1,0 +1,27 @@
+{
+  "title": "BAER for East Troublesome Wildfire",
+  "description": "BAER for East Troublesome Wildfire.",
+  "identifier": "owf-data-co-baer-east-troublesome",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/usfs/bear/2020/east-troublesome",
+  "issued": "2022-07-27",
+  "keyword": [
+    "raster",
+    "baer",
+    "east troublesome",
+    "soil burn severity",
+    "wildfire"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "BAER for East Troublesome Wildfire"
+    }
+  ]
+}
